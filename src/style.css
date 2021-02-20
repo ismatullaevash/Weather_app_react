@@ -1,0 +1,43 @@
+Form {
+	margin-top: 30px;
+}
+
+.plus {
+	text-align: right;
+	margin-top: -18px;
+	margin-bottom: -15px;
+}
+
+.result {
+	margin-top: 150px;
+}
+
+.center {
+	text-align: center;
+	margin-bottom: -35px;
+}
+
+.center img {
+	margin-right: 10px;
+}
+
+.LocalWeather {
+	margin-top: 20px;
+}
+
+.Weather {
+	margin-top: 20px;
+}
+
+
+#page-numbers {
+  list-style: none;
+  display: flex;
+}
+
+#page-numbers > li{
+  margin: 15px auto;
+  color: blue;
+  user-select: none;
+  cursor: pointer;
+}
