@@ -29,7 +29,7 @@ const FullDetails = () => {
            
           }}>
           <button>
-              go back to home</button></Link>
+              go back to home page</button></Link>
 		</div>
 	);
 }
